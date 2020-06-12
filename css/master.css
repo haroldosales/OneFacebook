@@ -1,0 +1,47 @@
+.Headr{
+    text-align:left;
+      font-size: 20px;
+      background: blue;
+      height: 120px;
+        padding-right: 200px;
+}
+.cont{
+      padding-top: 40px
+
+      background: #D3D3D3;
+}
+
+
+.loginheader{
+    text-align: right;
+    width: auto;
+}
+
+.login{
+      padding-top: 30px;
+      padding-right: 100px;
+      text-align: justify;
+      height: 480px;
+      float: right;
+      background-color: #D3D3D3;
+
+}
+.Img{
+    height: 450px;
+    width: auto;
+    padding-top: 10px;
+    float: center;
+    display: flex;
+    position: absolute;
+    background-color: background-color: #D3D3D3;
+}
+footer{
+  position: fixed;
+ left: 0;
+ bottom: 0;
+ width: 100%;
+ background-color: blue;
+
+ text-align: center;
+
+}
